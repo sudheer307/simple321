@@ -22,7 +22,7 @@
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <artifactId></artifactId>
       <version>3.8.1</version>
     </dependency>
   </dependencies>
